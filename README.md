@@ -5,12 +5,19 @@ The African Functional Genomics Resource includes RNA-seq, expression QTLs (eQTL
 
 # Download QTL Data
 
-**Version 1** of the eQTL summary statistics are available for ESN, GWD, MSL, YRI, and LWK in [tabixed](http://www.htslib.org/doc/tabix.html) format at:
+All QTL summary statistics files will be available in [tabixed](http://www.htslib.org/doc/tabix.html) format in the **[AFGR Dropbox](https://www.dropbox.com/sh/lvd39v94u6947lv/AACsEkCm2LLFhvFE84MEeFqUa?dl=0)**
 
-## <img src="https://github.com/smontgomlab/AFGR/blob/main/images/dropbox.png" width="30"> [AFGR Dropbox](https://www.dropbox.com/sh/lvd39v94u6947lv/AACsEkCm2LLFhvFE84MEeFqUa?dl=0)
+**Version 1** of the eQTL summary statistics are available for ESN, GWD, MSL, YRI, and LWK in :
+
+### eQTLs: <img src="https://github.com/smontgomlab/AFGR/blob/main/images/dropbox.png" width="25"> **[AFGR eQTLs v1](https://www.dropbox.com/sh/fikqu51rkxco2ra/AAAz9c-wnxuL_8BHxhzQUN7Ia?dl=0)**
+
+### sQTLs: <img src="https://github.com/smontgomlab/AFGR/blob/main/images/comingsoon.png" width="40">
+
+### caQTLs: <img src="https://github.com/smontgomlab/AFGR/blob/main/images/comingsoon.png" width="40">
+
 
 # Access RNA-seq and ATAC-seq Data
 
-The RNA-seq and ATAC-seq tracks will be available at [ENCODE](https://www.encodeproject.org/) soon.
+The RNA-seq and ATAC-seq tracks will be available at **[ENCODE](https://www.encodeproject.org/)** soon.
 
 <img src="https://github.com/smontgomlab/AFGR/blob/main/images/comingsoon.png" width="500">
