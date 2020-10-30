@@ -5,9 +5,9 @@ The African Functional Genomics Resource includes RNA-seq, expression QTLs (eQTL
 
 # Download QTL Data
 
-The QTL summary statistics will be available for download soon.
+**Version 1** of the eQTL summary statistics are available for ESN, GWD, MSL, YRI, and LWK in tabixed format at:
 
-<img src="https://github.com/smontgomlab/AFGR/blob/main/comingsoon.png" width="500">
+<img src="https://github.com/smontgomlab/AFGR/blob/main/dropbox.png" width="100"> [AFGR Dropbox](https://www.dropbox.com/sh/lvd39v94u6947lv/AACsEkCm2LLFhvFE84MEeFqUa?dl=0)
 
 # Access RNA-seq and ATAC-seq Data
 
