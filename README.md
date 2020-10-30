@@ -23,8 +23,7 @@ All QTL summary statistics files will be available in [tabixed](http://www.htsli
 - [x] YRI
 - [ ] MKK
 
-### caQTLs: <img src="https://github.com/smontgomlab/AFGR/blob/main/images/dropbox.png" width="25"> **[AFGR caQTLs v1](https://www.dropbox.com/sh/vht69o1hzne5hqb/AABlJpa4rbvdzM0g2FqXVa16a?dl=0)**
-- [x] Combined
+### caQTLs: <img src="https://github.com/smontgomlab/AFGR/blob/main/images/comingsoon.png" width="150">
 
 # Access RNA-seq and ATAC-seq Data
 
