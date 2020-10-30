@@ -7,6 +7,7 @@ The African Functional Genomics Resource includes RNA-seq, expression QTLs (eQTL
 
 The QTL summary statistics will be available for download soon.
 ![comingsoon](https://github.com/smontgomlab/AFGR/blob/main/comingsoon.png)
+
 <img src=https://github.com/smontgomlab/AFGR/blob/main/comingsoon.png" width="200">
 
 # Access RNA-seq and ATAC-seq Data
