@@ -15,10 +15,16 @@ All QTL summary statistics files will be available in [tabixed](http://www.htsli
 - [x] YRI
 - [ ] MKK
 
-### sQTLs: <img src="https://github.com/smontgomlab/AFGR/blob/main/images/comingsoon.png" width="125">
+### sQTLs: <img src="https://github.com/smontgomlab/AFGR/blob/main/images/dropbox.png" width="25"> **[AFGR sQTLs v1](https://www.dropbox.com/sh/vs0citst0q5vz2i/AAA-qiQh_BJIj9w0Qk6DtKwPa?dl=0)**
+- [x] ESN
+- [x] GWD
+- [x] LWK
+- [x] MSL
+- [x] YRI
+- [ ] MKK
 
-### caQTLs: <img src="https://github.com/smontgomlab/AFGR/blob/main/images/comingsoon.png" width="125">
-
+### caQTLs: <img src="https://github.com/smontgomlab/AFGR/blob/main/images/dropbox.png" width="25"> **[AFGR caQTLs v1](https://www.dropbox.com/sh/vht69o1hzne5hqb/AABlJpa4rbvdzM0g2FqXVa16a?dl=0)**
+- [x] Combined
 
 # Access RNA-seq and ATAC-seq Data
 
