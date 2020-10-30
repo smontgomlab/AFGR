@@ -13,7 +13,7 @@ All QTL summary statistics files will be available in [tabixed](http://www.htsli
 - [x] LWK
 - [x] MSL
 - [x] YRI
-- [] MKK
+- [ ] MKK
 
 ### sQTLs: <img src="https://github.com/smontgomlab/AFGR/blob/main/images/comingsoon.png" width="125">
 
