@@ -14,6 +14,7 @@ All QTL summary statistics files will be available in [tabixed](http://www.htsli
 - [x] MSL
 - [x] YRI
 - [x] MKK
+- [x] **Meta-analysis**
 
 ### sQTLs: <img src="https://github.com/smontgomlab/AFGR/blob/main/images/dropbox.png" width="25"> **[AFGR sQTLs v1](https://www.dropbox.com/sh/vs0citst0q5vz2i/AAA-qiQh_BJIj9w0Qk6DtKwPa?dl=0)**
 - [x] ESN
@@ -22,6 +23,7 @@ All QTL summary statistics files will be available in [tabixed](http://www.htsli
 - [x] MSL
 - [x] YRI
 - [x] MKK
+- [x] **Meta-analysis**
 
 ### caQTLs: <img src="https://github.com/smontgomlab/AFGR/blob/main/images/comingsoon.png" width="150">
 
