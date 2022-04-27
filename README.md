@@ -15,6 +15,7 @@ All QTL summary statistics files will be available in [tabixed](http://www.htsli
 - [x] YRI
 - [x] MKK
 - [x] **Meta-analysis**
+- [x] Pipeline-matched GEUVADIS eQTLs 
 
 ### sQTLs: <img src="https://github.com/smontgomlab/AFGR/blob/main/images/dropbox.png" width="25"> **[AFGR sQTLs v1](https://www.dropbox.com/sh/vs0citst0q5vz2i/AAA-qiQh_BJIj9w0Qk6DtKwPa?dl=0)**
 - [x] ESN
@@ -26,6 +27,7 @@ All QTL summary statistics files will be available in [tabixed](http://www.htsli
 - [x] **Meta-analysis**
 
 ### caQTLs: <img src="https://github.com/smontgomlab/AFGR/blob/main/images/comingsoon.png" width="150">
+- [x] AFR (called in bulk using ATAC-seq data from 100 samples spanning all 6 population groups)
 
 # Access RNA-seq and ATAC-seq Data
 
