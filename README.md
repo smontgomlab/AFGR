@@ -18,7 +18,7 @@ All QTL summary statistics files will be available in [tabixed](http://www.htsli
 - [x] Pipeline-matched GEUVADIS eQTLs 
 
 ### <img src="https://github.com/smontgomlab/AFGR/blob/main/images/dropbox.png" width="25"> **[GEUVADIS eQTLs](https://www.dropbox.com/sh/wvln1916iziwvz5/AABglx92KNi0TwzgjDkLf50qa?dl=0)**
-GEUVADIS eQTLs called and meta-analyzed using the same pipeline as AFGR
+*GEUVADIS eQTLs called and meta-analyzed using the same pipeline as AFGR*
 - [x] CEU
 - [x] FIN
 - [x] GBR
