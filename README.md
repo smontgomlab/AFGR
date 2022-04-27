@@ -17,6 +17,16 @@ All QTL summary statistics files will be available in [tabixed](http://www.htsli
 - [x] **Meta-analysis**
 - [x] Pipeline-matched GEUVADIS eQTLs 
 
+### <img src="https://github.com/smontgomlab/AFGR/blob/main/images/dropbox.png" width="25"> **[GEUVADIS eQTLs](https://www.dropbox.com/sh/wvln1916iziwvz5/AABglx92KNi0TwzgjDkLf50qa?dl=0)**
+GEUVADIS eQTLs called and meta-analyzed using the same pipeline as AFGR
+- [x] CEU
+- [x] FIN
+- [x] GBR
+- [x] TSI
+- [x] EUR (bulk-called eQTLs across CEU, FIN, GBR, and TSI)
+- [x] **Meta-analysis** (meta-analysis of CEU, FIN, GBR, and TSI eQTLs)
+- [x] YRI
+
 ### sQTLs: <img src="https://github.com/smontgomlab/AFGR/blob/main/images/dropbox.png" width="25"> **[AFGR sQTLs](https://www.dropbox.com/sh/vs0citst0q5vz2i/AAA-qiQh_BJIj9w0Qk6DtKwPa?dl=0)**
 - [x] ESN
 - [x] GWD
