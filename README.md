@@ -7,7 +7,7 @@ The African Functional Genomics Resource includes RNA-seq, expression QTLs (eQTL
 
 All QTL summary statistics files will be available in [tabixed](http://www.htslib.org/doc/tabix.html) format in the **[AFGR Dropbox](https://www.dropbox.com/sh/lvd39v94u6947lv/AACsEkCm2LLFhvFE84MEeFqUa?dl=0)**
 
-### eQTLs: <img src="https://github.com/smontgomlab/AFGR/blob/main/images/dropbox.png" width="25"> **[AFGR eQTLs v1](https://www.dropbox.com/sh/fikqu51rkxco2ra/AAAz9c-wnxuL_8BHxhzQUN7Ia?dl=0)**
+### eQTLs: <img src="https://github.com/smontgomlab/AFGR/blob/main/images/dropbox.png" width="25"> **[AFGR eQTLs](https://www.dropbox.com/sh/fikqu51rkxco2ra/AAAz9c-wnxuL_8BHxhzQUN7Ia?dl=0)**
 - [x] ESN
 - [x] GWD
 - [x] LWK
@@ -17,7 +17,7 @@ All QTL summary statistics files will be available in [tabixed](http://www.htsli
 - [x] **Meta-analysis**
 - [x] Pipeline-matched GEUVADIS eQTLs 
 
-### sQTLs: <img src="https://github.com/smontgomlab/AFGR/blob/main/images/dropbox.png" width="25"> **[AFGR sQTLs v1](https://www.dropbox.com/sh/vs0citst0q5vz2i/AAA-qiQh_BJIj9w0Qk6DtKwPa?dl=0)**
+### sQTLs: <img src="https://github.com/smontgomlab/AFGR/blob/main/images/dropbox.png" width="25"> **[AFGR sQTLs](https://www.dropbox.com/sh/vs0citst0q5vz2i/AAA-qiQh_BJIj9w0Qk6DtKwPa?dl=0)**
 - [x] ESN
 - [x] GWD
 - [x] LWK
@@ -26,7 +26,7 @@ All QTL summary statistics files will be available in [tabixed](http://www.htsli
 - [x] MKK
 - [x] **Meta-analysis**
 
-### caQTLs: <img src="https://github.com/smontgomlab/AFGR/blob/main/images/comingsoon.png" width="150">
+### caQTLs: <img src="https://github.com/smontgomlab/AFGR/blob/main/images/dropbox.png" width="25"> **[AFGR caQTLs](https://www.dropbox.com/sh/lug589cab8j1xeg/AAC72VxCu3FB4HeWkvmy9zc6a?dl=0)**
 - [x] AFR (called in bulk using ATAC-seq data from 100 samples spanning all 6 population groups)
 
 # Access RNA-seq and ATAC-seq Data
